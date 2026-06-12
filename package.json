@@ -2,7 +2,7 @@
   "name": "pylon-hr-backend",
   "version": "1.0.0",
   "description": "Pylon HR Performance Management System - Backend API",
-  "main": "src/server.js",
+  "main": "server.js",
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
